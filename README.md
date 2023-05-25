@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meamanparmar&label=Profile%20views&color=0e75b6&style=flat" alt="meamanparmar" /> </p>
 
-- 🔭 I’m currently working on **GYM Website**
+- 🔭 I’m currently working on **Expense calculator using AI**
 
 - 🌱 I’m currently learning **MERN Stack**
 
