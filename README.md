@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aman-parmar14.netlify.app/](https://aman-parmar14.netlify.app//)
 
-- 💬 Ask me about **Java, React ,JS and MongoDB**
+- 💬 Ask me about **Cyber Sec,Java, React ,JS and MongoDB**
 
 - 📫 How to reach me **amanparmar9171@gmail.com**
 
